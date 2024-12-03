@@ -34,3 +34,7 @@ output = "C"
 
 input = "4433555 5556660966677755531#"\
 output = "HELLO WORLD!"
+
+## Detailed Code Explanation
+
+It can be found in Old Keypad Phone Converter (Detailed Code Explanation).pdf in the repo.

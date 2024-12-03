@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using CodeChanllengeIron.Business;
+using CodeChallengeIron.Business;
 
 Console.WriteLine("Enter your input: ");
 string input = Console.ReadLine() ?? throw new Exception("input cannot be null");

@@ -1,6 +1,6 @@
-﻿using CodeChanllengeIron.Business;
+﻿using CodeChallengeIron.Business;
 
-namespace CodeChallengeIron.Test.UnitTest
+namespace CodeChallegeIron.Test.UnitTest
 {
     [TestClass]
     public class KeypadTranslatorTest

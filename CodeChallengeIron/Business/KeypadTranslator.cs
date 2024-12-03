@@ -1,4 +1,4 @@
-﻿namespace CodeChanllengeIron.Business
+﻿namespace CodeChallengeIron.Business
 {
     public class KeypadTranslator
     {
